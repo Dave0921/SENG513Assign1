@@ -19,6 +19,16 @@ li a {
     padding: 16px 32px;
     text-decoration: none;
 }
-li a:hover{
+li a:hover {
     background-color: #484d53;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343A40 !important;
+    color: white;
+    padding: 16px 32px;
+ }
