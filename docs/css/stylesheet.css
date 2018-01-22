@@ -1,14 +1,24 @@
-.nav {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #4D6CFA;
+body{
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.navitem {
+.nav {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #004E98;
+}
+li {
     float: left;
+}
+li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14 px 18 px;
+    padding: 14px 18px;
     text-decoration: none;
+}
+li a:hover{
+    background-color: #3A6EA5;
 }
