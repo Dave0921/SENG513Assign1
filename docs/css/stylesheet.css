@@ -7,7 +7,7 @@ body{
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: #004E98;
+    background-color: #343A40 !important;
 }
 li {
     float: left;
@@ -16,9 +16,9 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 18px;
+    padding: 16px 32px;
     text-decoration: none;
 }
 li a:hover{
-    background-color: #3A6EA5;
+    background-color: #484d53;
 }
