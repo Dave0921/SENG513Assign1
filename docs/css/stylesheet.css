@@ -1,6 +1,9 @@
 body{
     margin: 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("../img/PaintingBackground1.jpg") no-repeat;
+    background-size: cover;
+    min-height: 100%;
 }
 .nav {
     list-style-type: none;
