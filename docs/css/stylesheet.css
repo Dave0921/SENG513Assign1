@@ -28,6 +28,11 @@ li a:hover {
     background-color: #484d53;
 }
 
+#wrapper {
+    display: flex;
+    justify-content: center
+}
+
 .header {
     font-size: 48px;
 }
