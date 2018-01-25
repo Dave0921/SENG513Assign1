@@ -111,15 +111,3 @@ img {
 .cardcontainer {
     padding: 2px 16px;
 }
-
-.footer {
-    margin: 0px;
-    float: left;
-    width: 100%;
-    bottom: 0px;
-    background-color: #343A40;
-    font-size: 20px; 
-    color: white;
-    padding: 2px 15px;
-    box-sizing: border-box;
- }
