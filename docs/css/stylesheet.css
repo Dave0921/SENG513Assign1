@@ -43,10 +43,11 @@ li a:hover {
 }
 .header h1{
     font-size: 48px;
-    
+    margin-top: 36px;
 }
 .header h2 {
     font-size: 36px;
+    margin: 0;
 }
 
 #wrapper {
